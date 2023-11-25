@@ -1,8 +1,15 @@
-
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/willsoarez/willsoarez/main/header.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center" style="font-size:24px">If you've never done it, I'll be the first. And if they've already done it, I'll do better!</p>
+<h1 align="center">If you've never done it, I'll be the first. And if they've already done it, I'll do better!</h1>
+
+&nbsp;
+
+<div  align="center" style="margin-bottom:20px">
+<img width=60% align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=willsoarez&cover_image=true&theme=novatorem&show_offline=false&background_color=312f50&interchange=false&bar_color=ff0b5a&bar_color_cover=false" />
+</div>
+
+&nbsp;
 
 <p align="center" style="font:league-spartan">From backend development using Nest to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
@@ -15,7 +22,7 @@
 
 ## Personal account - Willsoarez
 
-<div  align="center" style="margin-bottom:20px">
+<div align="center" style="margin-bottom:20px">
 <img width=34% align="center" src="https://github-stats-black.vercel.app/api/top-langs/?username=willsoarez&layout=compact&theme=radical" />
 <img width=45% align="center" src="https://github-stats-black.vercel.app/api?username=willsoarez&show_icons=true&theme=radical" />
 </div>
