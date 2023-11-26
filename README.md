@@ -5,8 +5,8 @@
 
 &nbsp;
 
-<div  align="center" style="margin-bottom:20px">
-<img width=60% align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=willsoarez&cover_image=true&theme=novatorem&show_offline=false&background_color=312f50&interchange=false&bar_color=ff0b5a&bar_color_cover=false" />
+<div align="center" style="margin-bottom:20px">
+<img width=65% align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=willsoarez&cover_image=true&theme=novatorem&show_offline=false&background_color=8b0000&border_color=ffffff&interchange=false&bar_color=ff0b5a&bar_color_cover=false" />
 </div>
 
 &nbsp;
@@ -15,15 +15,15 @@
 
 ## Professional account - WillSoarez01
 
-<div  align="center" style="margin-bottom:20px">
-<img width=34% align="center" src="https://github-stats-black.vercel.app/api/top-langs/?username=willsoarez&layout=compact&theme=radical" />
-<img width=45% align="center" src="https://github-stats-omega-gold.vercel.app/api?username=willsoarez01&show_icons=true&theme=radical" />
+<div align="center" style="margin-bottom:20px">
+<img width=49% align="center" src="https://github-stats-omega-gold.vercel.app/api/top-langs/?username=WillSoarez01&layout=compact&theme=radical" />
+<img width=45% align="center" src="https://github-stats-omega-gold.vercel.app/api?username=WillSoarez01&show_icons=true&theme=radical" />
 </div>
 
 ## Personal account - Willsoarez
 
 <div align="center" style="margin-bottom:20px">
-<img width=34% align="center" src="https://github-stats-black.vercel.app/api/top-langs/?username=willsoarez&layout=compact&theme=radical" />
+<img width=40% align="center" src="https://github-stats-black.vercel.app/api/top-langs/?username=willsoarez&layout=compact&theme=radical" />
 <img width=45% align="center" src="https://github-stats-black.vercel.app/api?username=willsoarez&show_icons=true&theme=radical" />
 </div>
  
@@ -41,10 +41,8 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Tailwind.css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Google.looker](https://img.shields.io/badge/Google_Looker-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Google.looker](https://img.shields.io/badge/Looker_Studio-FFFFFF?style=for-the-badge&logo=looker&logoColor=blue)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
@@ -55,6 +53,9 @@
 ![Google.sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)&nbsp;
 ![MS.Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![MS.Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
+![Google.sketchup](https://img.shields.io/badge/Google_Sketchup-FFFFFF?style=for-the-badge&logo=sketchup&logoColor=blue)&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
@@ -92,10 +93,11 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/will.soarez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato@carvalhosoares.com.br"> <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carvalhosoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.instagram.com/will.soarez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:contato@carvalhosoares.com.br" target="_blank"><img src="https://img.shields.io/badge/Hotmail-%230078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carvalhosoares/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/id/willsoarez/" target="_blank"><img src="https://img.shields.io/badge/Steam_ID-%23171d25?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/id/willsoarez/" target="_blank"><img src="https://img.shields.io/badge/Epic_Games-%23171d25?style=for-the-badge&logo=epicgames&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
  
 
